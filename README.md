@@ -35,8 +35,11 @@ I'm a **Senior Business and Data Analytics professional** with **5+ years of exp
 
 | Certification | Issuer | Link |
 |---------------|--------|------|
-| Tableau Desktop Specialist | Tableau | [![Tableau](https://img.shields.io/badge/View%20Certificate-E97627?style=flat-square&logo=tableau&logoColor=white)](https://www.credly.com/org/tableau/badge/tableau-desktop-specialist) |
-| SQL for Data Analysis | Udacity | [![SQL](https://img.shields.io/badge/View%20Certificate-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.udacity.com/course/sql-for-data-analysis--ud198) |
+| Tableau Desktop Specialist | Tableau | [![Tableau](https://img.shields.io/badge/View%20Certificate-E97627?style=flat-square&logo=tableau&logoColor=white)](https://www.credly.com/badges/d9642d28-af49-400d-8ec8-ac156cd36ee2) |
+| SQL HackerRank Certificate | HackerRank | [![SQL](https://img.shields.io/badge/View%20Certificate-4479A1?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/fc6a8c79256a) |
+| Python Certificate | Udemy | [![Python](https://img.shields.io/badge/View%20Certificate-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.udemy.com/certificate/UC-49FQ6WM8/) |
+| Excel Certificate | Udemy | [![Excel](https://img.shields.io/badge/View%20Certificate-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.udemy.com/certificate/UC-3XK4F4QE/) |
+| Excel Exam Certificate | Rutgers Business School | [![Excel](https://img.shields.io/badge/View%20Certificate-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.linkedin.com/posts/harshkumarpatel97_excel-exam-certificate-base-rutgers-university-activity-6665666062752854016-2Eel?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClozgcBLuhKaYF6SvrOEnUhGb2ogjt3mR4) |
 
 ---
 
