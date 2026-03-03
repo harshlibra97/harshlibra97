@@ -1,4 +1,4 @@
-# Hi there, I'm Harshkumar Patel, you can call me Harsh 👋
+# Hi there, I'm Harshkumar Patel — you can call me Harsh 👋
 **Business/Data Analytics Professional | 5+ Years of Experience | SQL • Tableau • Python • Business Intelligence**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkumarpatel97/) [![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/harshkumarp/vizzes) ![Location](https://img.shields.io/badge/Seattle%2C%20WA%20%28Open%20to%20Relocation--US%29-blue?style=for-the-badge&logo=google-maps&logoColor=white) ![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
