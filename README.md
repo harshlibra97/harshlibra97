@@ -1,7 +1,7 @@
 # Hi there, I'm Harshkumar Patel 👋
 **Business/Data Analytics Professional | 5+ Years of Experience | SQL • Tableau • Python • Business Intelligence**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkumarpatel97/) ![Location](https://img.shields.io/badge/Seattle%2C%20WA-blue?style=for-the-badge&logo=google-maps&logoColor=white) ![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkumarpatel97/) [![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/harshkumarp/vizzes) ![Location](https://img.shields.io/badge/Open%20to%20relocation%20anywhere%20in%20the%20United%20States-blue?style=for-the-badge&logo=google-maps&logoColor=white) ![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 
 ---
 
