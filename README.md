@@ -1,5 +1,5 @@
 # Hi there, I'm Harshkumar Patel 👋
-**Data Analytics Professional | 5+ Years of Experience | SQL • Python • Business Intelligence**
+**Business/Data Analytics Professional | 5+ Years of Experience | SQL • Tableau • Python • Business Intelligence**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkumarpatel97/) ![Location](https://img.shields.io/badge/Seattle%2C%20WA-blue?style=for-the-badge&logo=google-maps&logoColor=white) ![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 
@@ -7,20 +7,22 @@
 
 ## 🙋 About Me
 
-I'm a **Data Analytics professional** with **5+ years of experience** turning complex datasets into clear, actionable business insights. Currently at **Amazon.com Services LLC** in Seattle, I specialize in leveraging SQL and Python to drive data-informed decisions across customer service, e-commerce, and operations.
+I'm a **Senior Business and Data Analytics professional** with **5+ years of experience** turning complex datasets into clear, actionable business insights. Currently at **Amazon.com Services LLC** in Seattle, I specialize in using **SQL, Python, Tableau, Excel, and AI-driven analytics** to support **business strategy, strategy and operations, business operations, performance management, and customer experience decision-making** at scale.
 
-- 🔍 I transform raw data into stories that drive business strategy
-- 🛒 Currently enhancing customer experience at Amazon through Data Storage & Analytics
-- 💡 Passionate about funnel analysis, KPI development, and business intelligence
-- 🤝 Open to collaborating on analytics and data science projects
-
+- 🔍 I transform raw data into insights that shape **business strategy, operational planning, and executive decision-making**
+- 📊 Experienced in **dashboarding, KPI development, forecasting, experimentation, root-cause analysis, and business performance reporting**
+- 🧩 Strong background in **business acumen, cross-functional stakeholder management, and translating ambiguous business problems into structured analytical solutions**
+- 🛒 Currently improving **customer and driver experience, operational efficiency, and business outcomes** at Amazon through analytics, automation, and business intelligence
+- 🤖 Passionate about using **AI, analytics, and scalable reporting frameworks** to solve high-impact **business and operational challenges**
+- 💡 Interested in **product analytics, business intelligence, customer insights, strategy and operations, and data-driven growth**
+- 🤝 Open to collaborating on **analytics, business strategy, bizops, and data science-related projects**
 ---
 
 ## 🛠️ Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Core Competencies:** Data Wrangling | Exploratory Data Analysis (EDA) | Business Intelligence | KPI Development | Funnel Analysis | Customer Behavior Analytics | Data Visualization | Statistical Analysis
+**Core Competencies:** Business Analytics | Business Operations | Strategy & Operations | Business Intelligence | Data Wrangling | Exploratory Data Analysis (EDA) | KPI Development | Performance Measurement | Funnel Analysis | Customer Behavior Analytics | Root-Cause Analysis | Experimentation | Statistical Analysis | Data Visualization | Executive Reporting | Cross-Functional Stakeholder Management | Data-Driven Decision-Making
 
 ---
 
